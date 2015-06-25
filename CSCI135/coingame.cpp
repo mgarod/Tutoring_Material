@@ -1,14 +1,19 @@
 /*
-Review Midterm 1: Question 12
+Author: Michael Garod
+Date Created: 6/25/15
+
+Midterm Review: Question 12
 
 The player starts with a score of 0. In each round, she flips both coins, and receives points according to the following criteria:
 
-Two Heads: 5 // One Head, One Tail: 3 // Two Tails: 1
+RESULTS:
+Two Heads: 5
+One Head, One Tail: 3 
+Two Tails: 1
 
 The game stops when the total score of all rounds is at least X, where X is a value decided independently. The player then records the number of rounds it took to reach this score. You have to write a function coinGame(int X) that simulates this game. It has one parameter X, which corresponds to the score X that decides when the game stops. This function should return the number of rounds that the game went on for.
 
 You may assume srand(time(0)) has already been called in your program.
-
 */
 
 #include <iostream>

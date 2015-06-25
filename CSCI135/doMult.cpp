@@ -1,6 +1,12 @@
 /*
-Midterm review: Question 1(a)
+Author: Michael Garod
+Date Created: 6/23/15
+
+Midterm Review: Question 1(a)
+
+Write a function doMult(int x, int y) that computes (and returns) the product of integers x and y without using the * (multiplication) operator or any other built- in functions (but you can use abs()). You may use + (addition) and the standard C++ control flow statements. Note that x and y can be positive or negative. Make sure your function can handle the size of the product of two integers.
 */
+
 #include <iostream>
 #include <cmath>
 using namespace std;
