@@ -1,0 +1,6 @@
+output: 923
+output: 0192
+output: 123838
+output: programming
+output: apple
+output: fox
