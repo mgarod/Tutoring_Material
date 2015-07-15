@@ -11,6 +11,11 @@
 	are valid, and then output the Hamming distance. If an input string is not
 	valid, your program should allow the user to re-enter it until it is valid.
 	
+	Note: If one string is longer than the other by X, then the hamming distance
+	between the strings is at least X. When length of S1 is 5 and length of S2 is
+	3, then the hamming distance is at least 2, and you will compare the remaining
+	3 leftmost characters.
+	
 	Tricky Concepts: Input Validation, Returning a Boolean Value
 */
 
