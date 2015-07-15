@@ -20,3 +20,5 @@ When you write a non-trivial piece of code, take a second to write a small sente
 This ties into tip number 2. If you build something that requires more than a glance to the average coder, leave a comments. Save that person the trouble of tracing your logic by instead having them just read a description. If you ask someone for help, they are going to be more lost than you. Leaving comments is like leaving the next person breadcrumbs to navigate through your forest of code.
 
 And sometimes, you'll be that next person that has to look at your code. Do you want to look at your own undocumented code to figure out what the heck you were thinking 7 months ago? Why would you do that to yourself? Do yourself a favor. [Leave a note.](http://media1.mic.com/site/article-items/2739/1_gif.gif) It's like leaving a present for your future self. Future-You will be happy you did.
+
+### 4 through 674 To be continued...
