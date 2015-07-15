@@ -10,6 +10,8 @@
 	prompt the user for two strings to compare, make sure the input strings
 	are valid, and then output the Hamming distance. If an input string is not
 	valid, your program should allow the user to re-enter it until it is valid.
+	
+	Tricky Concepts: Input Validation, Returning a Boolean Value
 */
 
 #include <iostream>
