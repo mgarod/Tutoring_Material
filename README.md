@@ -21,4 +21,11 @@ This ties into tip number 2. If you build something that requires more than a gl
 
 Sometimes, you're the next person that has to look at your code. Do you want to look at your own undocumented code to figure out what the heck you were thinking 7 months ago? Why would you do that to yourself? Do yourself a favor. [Leave a note.](http://media1.mic.com/site/article-items/2739/1_gif.gif) It's like leaving a present for your future self. Future-You will be happy you did.
 
-### 4 through 674 To be continued...
+### 4. Computer Science is Essentially Applied Mathematics
+Strictly speaking you won't use much advanced math when programming, yet having an advanced math background allows you to be a better thinker when you face a problem.
+
+Intricate logic, algorithms, and recursions are at the root of every program which require very abstract thinking. Having a strong foundation in math stretches your mental capacity beyond what you can visualize and keeps you disciplined in your methods. Conceptualizing the ideas of limits, the puzzle solving of integration, and the testing of infinite series all prepared my mind for highly abstract programming.
+
+I would go so far as to say that those that are poor in math are the poorest programmers. If you are self-admittedly poor at math, then you should remedy that or reconsider your path.
+
+### 5 through 674 To be continued...
