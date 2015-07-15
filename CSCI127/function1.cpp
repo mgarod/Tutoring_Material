@@ -12,7 +12,7 @@ using namespace std;
 	You must declare all functions you wish to use after includes/namespace
 	and before your main. A function declarations consists of:
  
- 	returnType functionName(any number of parameters and their names);
+ 	returnType functionName(any number of parameters);
 
  	This declaration is a contract with the compiler. When this function is
  	called upon, you have an agreement that it will only take these
@@ -20,9 +20,10 @@ using namespace std;
 
 	Just like on a physical calulator, you would press the sin button, then
 	type in some number. The sin function expects a Real number, and will
-	return to you a real number between -1 and 1. If you input sin(i), you
-	have broken the contract with your calculator on what the sin function
-	should be and you will receive an error. The same will happen here.
+	return to you a real number between -1 and 1. If you input sin(i) where i is
+	the imaginary number, you have broken the contract with your calculator on
+	what the sin function should be and you will receive an error. The same will
+	happen here.
 */
 
 bool isPerfect(int input);
@@ -53,14 +54,15 @@ int main()
 	}
 
 	cout << "Now we will do this with functions\n";
-	// Every time you would want to determine a perfect number, you would
-	// need to copy/paste this entire block or place it in a do-while loop.
+	/*
+	Every time you would want to determine a perfect number, you would
+	need to copy/paste this entire block or place it in a do-while loop.
 
-	// With functions, you can place this previous code into one line
-	// which allows for very simple use and re-use. To call the function,
-	// just write the name and insert an argument. This is exactly the same
-	// as if you were to use sin(60) on your calculator.
-
+	With functions, you can place the previous code into one line
+	which allows for very simple use and re-use. To call the function,
+	just write the name and insert an argument. This is exactly the same
+	as if you were to use sin(60) on your calculator.
+	*/
 	isPerfect(6);
 	isPerfect(326);
 	isPerfect(788);
