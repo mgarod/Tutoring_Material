@@ -39,10 +39,8 @@ double diffSquared(double left, double right)
 	/*
 		This function could have been written like this:
 		int base = left - right;
-		return pow(base, 2);
-
-		but (left - right) is a single number anyway so the above is
-		unnecessary.
+		int answer = pow(base, 2);
+		return answer;
 	*/
 }
 
@@ -50,7 +48,7 @@ double distanceFormula(double x1, double y1, double x2, double y2)
 {
 	// When diffSquared() is called, the logic will then jump to diffSquared()
 	// to retrieve an answer. You may think of these nested function calls as
-	// a placeholder for what the number should be.
+	// a placeholder for what the number will be when diffSquared() returns.
 	return sqrt(diffSquared(x2,x1) + diffSquared(y2,y1));
 
 	/*
@@ -73,7 +71,7 @@ double distanceFormula(double x1, double y1, double x2, double y2)
 		return sqrt(pow(x2-x1,2) + pow(y2-y1,2));
 
 		and foregoing diffSquared() altogether, but this was designed to show
-		that you may nest functions like Russian Matryoshka dolls.
+		that you may chain together functions like Russian Matryoshka dolls.
 	*/
 }
 
