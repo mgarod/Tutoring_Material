@@ -21,8 +21,8 @@
 #	these names, the interpreter merely copy-pastes their values in place.
 EXE = TestSet
 OBJS = TestSet.o
-CC = g++
 SOURCE = TestSet.cpp
+CC = g++
 DEBUG = -g -pedantic
 CFLAGS = -Wall -c $(DEBUG)
 LFLAGS = -Wall $(DEBUG)
