@@ -4,17 +4,20 @@
 #	
 # A makefile is a script that will execute a series of commends
 #	en lieu of having the human do them on the command line.
-#
-# This makefile will generate an executable called TestSet dependent on OBJS
-# In order for it to continue, it will then generate all OBJS, in this case
-#	it only has one item to build, TestSet.o, which depends on TestSet.cpp
+# 
+# This makefile will generate an executable called EXE dependent on OBJS
+# In order for it to continue, it will then generate OBJS, and in this case
+#	it only has one item to build, TestSet.o, which depends on SOURCE.
 # These aliases OBJS, CC, DEBUG, CFLAGS, LFLAGS all exist so that when your
 #	makefiles become large, you can make changes to all pieces at once by
-#	modifying a single alias.
-# The formatting for makefiles are very strict. The tabs below each colon
-#	are very specific and indicate which instructions to follow.
-#
-# To build your program, simply enter "make" into the terminal.
+#	modifying a single alias at the top.
+# The formatting for makefiles is very strict. The tabs below each colon for
+#	example, are very specific and indicate which instructions to follow.
+# 
+# To build the program, simply enter "make" into the terminal.
+# 
+# To test this makefile, you can get the source files here:
+#	https://github.com/mgarod/MathSet
 
 ############################################################################
 # These are the aliases. Think of them as variables. Everywhere you see
