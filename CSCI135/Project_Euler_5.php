@@ -47,6 +47,6 @@
 		}
 	}
 
-	echo "Time elapsed in milliseconds: ".(microtime()-$start);
+	echo "Time elapsed in milliseconds: ".(microtime()-$start)."\n";
 	echo "$product is the product of the first $first_N_numbers\n";
 ?>

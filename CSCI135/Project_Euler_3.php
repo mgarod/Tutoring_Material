@@ -34,7 +34,7 @@
 		}
 	}
 
-	echo "Time elapsed in milliseconds: ".(microtime()-$start);
+	echo "Time elapsed in milliseconds: ".(microtime()-$start)."\n";
 	echo "$factors is the largest prime factor of $originalprime\n";
 
 ?>
