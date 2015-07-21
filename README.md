@@ -1,4 +1,4 @@
-# Things I wish I knew about programming before I started programming
+# N Things I Wish I Knew About Programming Before I Started Programming
 
 ### 1. Style Matters
 The minute that you can write code is the second you should be worried about style.
@@ -17,9 +17,9 @@ A similar phenomenon is called [Rubber Duck Debugging](http://pressupinc.com/blo
 ### 3. Comment As You Go
 When you write a non-trivial piece of code, take a second to write a small sentence about what it does.
 
-This ties into tip number 2. If you build something that requires more than a glance to the average coder, leave a comments. Save that person the trouble of tracing your logic by instead having them just read a description. If you ask someone for help on some of your code, they are going to be more lost than you. Leaving comments is like leaving the next person breadcrumbs to navigate through your forest of code.
+This ties into tip number 2. If you build something that requires more than a glance to the average coder, leave a comment. Have the reader read a plain english description of your logic rather than forcing them to trace the steps. If you ask someone for help on some of your code, they are going to be more lost than you. Leaving comments is like leaving the next person breadcrumbs to navigate through your forest of code.
 
-Sometimes, you're the next person that has to look at your code. Do you want to look at your own undocumented code to figure out what the heck you were thinking 7 months ago? Why would you do that to yourself? Do yourself a favor. [Leave a note.](http://media1.mic.com/site/article-items/2739/1_gif.gif) It's like leaving a present for your future self. Future-You will be happy you did.
+Sometimes, you're going to be the next person that has to look at your code. Do you want to look at your own undocumented code to figure out what the heck you were thinking 7 months ago? Why would you do that to yourself? Do yourself a favor. [Leave a note.](http://media1.mic.com/site/article-items/2739/1_gif.gif) It's like leaving a present for your future self. Future-You will be happy you did.
 
 ### 4. Computer Science is Essentially Applied Mathematics
 Strictly speaking you won't use much advanced math when programming, yet having an advanced math background allows you to be a better thinker when you face a problem.
@@ -28,4 +28,4 @@ Intricate logic, algorithms, and recursions are at the root of every program whi
 
 I would go so far as to say that those that are poor in math are the poorest programmers. If you are self-admittedly poor at math, then you should remedy that or reconsider your path.
 
-### 5 through 674 To be continued...
+### 5 through N To be continued...
