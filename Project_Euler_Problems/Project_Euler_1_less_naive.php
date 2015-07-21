@@ -1,6 +1,6 @@
 <?php
 	/*
-	Title: Project_Euler_1.php
+	Title: Project_Euler_1_less_naive.php
 	Author: Michael Garod
 	Date Created: 7/19/15
 	Problem: If we list all the natural numbers below 10 that are multiples of
