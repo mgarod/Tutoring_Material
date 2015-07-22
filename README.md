@@ -17,7 +17,7 @@ A similar phenomenon is called [Rubber Duck Debugging](http://pressupinc.com/blo
 ### 3. Comment As You Go
 When you write a non-trivial piece of code, take a second to write a small sentence about what it does.
 
-This ties into tip number 2. If you build something that requires more than a glance to the average coder, leave a comment. Have the reader read a plain english description of your logic rather than forcing them to trace the steps. If you ask someone for help on some of your code, they are going to be more lost than you. Leaving comments is like leaving the next person breadcrumbs to navigate through your forest of code.
+This ties into tip number 2. If you build something that requires more than a glance to the average coder, leave a comment. Have the reader read a plain English description of your logic rather than forcing them to trace the steps. If you ask someone for help on some of your code, they are going to be more lost than you. Leaving comments is like leaving the next person breadcrumbs to navigate through your forest of code.
 
 Sometimes, you're going to be the next person that has to look at your code. Do you want to look at your own undocumented code to figure out what the heck you were thinking 7 months ago? Why would you do that to yourself? Do yourself a favor. [Leave a note.](http://media1.mic.com/site/article-items/2739/1_gif.gif) It's like leaving a present for your future self. Future-You will be happy you did.
 
@@ -28,4 +28,22 @@ Intricate logic, algorithms, and recursions are at the root of every program whi
 
 I would go so far as to say that those that are poor in math are the poorest programmers. If you are self-admittedly poor at math, then you should remedy that or reconsider your path.
 
-### 5 through N To be continued...
+### 5. Work Top-Down (Think First, Code Later)
+"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." -Linus Torvalds
+
+Design your algorithms first at the highest level, i.e. explain in English each step on your path to the answer. Then, translate your English into more mathematical, logical operations via flow charts. Then finally, you can translate your logic into code.
+
+Coding should be the last thing you ever do with your program. If you can envision your data structures and work flow in your head and on paper, then creating the code will be the easiest part. 
+
+### 6. Programming Takes Time. Start Early
+When you first face a problem your vision is limited to the surface. There are problems beneath the surface that you cannot even imagine until you actually get your hands on it. Affording yourself downtime allows you to digest unexpected problems.
+
+The importance of starting early cannot be overstated. On the path to the solution you may find that your first draft algorithm is returning bad results, or you don't actually know how to use some feature, or you find an edge case you have no idea how to handle. You absolutely, positively will hit a bump in the road and it will derail your projected finishing time.
+If you decided to make your program 2 days before it's due, then your back is against the wall now. If you started working on it 2 weeks ago when you first heard about the project you would have days to step back from the project and ponder.
+
+When you step back from the project, a funny thing happens. By freeing your mind of the burden for a while, you can come back to the project with clearer eyes, and from a new perspective. You can come back to see that you were actually calling methods on a NULL node which caused you six plus hours of seg faults and headaches (true story).
+
+Sometimes it doesn't even take that long have a flash of brilliance. I cannot recall how many algorithms I've solved in that strange hinterland between wake and sleep, nor the number of times it has happened staring at the wall of a subway car.
+
+
+### 7 through N To be continued...
