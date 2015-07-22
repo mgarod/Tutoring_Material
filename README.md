@@ -35,15 +35,18 @@ Design your algorithms first at the highest level, i.e. explain in English each 
 
 Coding should be the last thing you ever do with your program. If you can envision your data structures and work flow in your head and on paper, then creating the code will be the easiest part. 
 
-### 6. Programming Takes Time. Start Early
-When you first face a problem your vision is limited to the surface. There are problems beneath the surface that you cannot even imagine until you actually get your hands on it. Affording yourself downtime allows you to digest unexpected problems.
+### 6. Programming Takes Time; Start Early
+When you first face a problem, your vision is limited to the surface. There are problems beneath the surface that you cannot even imagine until you actually get your hands on it. Affording yourself downtime allows you to digest unexpected problems.
 
-The importance of starting early cannot be overstated. On the path to the solution you may find that your first draft algorithm is returning bad results, or you don't actually know how to use some feature, or you find an edge case you have no idea how to handle. You absolutely, positively will hit a bump in the road and it will derail your projected finishing time.
-If you decided to make your program 2 days before it's due, then your back is against the wall now. If you started working on it 2 weeks ago when you first heard about the project you would have days to step back from the project and ponder.
+The importance of starting early cannot be overstated. On the path to the solution you may find that your first draft algorithm is returning bad results, or you don't actually know how to use some feature, or you find an edge case you have no idea how to handle. I guarantee that you will always hit a bump in the road in development and it will derail your projected finishing time. If you decided to make your program 2 days before it's due, then your back is completely against the wall. If you started working on it 2 weeks before the due date then, you have many days to step back from the project and ponder on the strange occurrence.
 
-When you step back from the project, a funny thing happens. By freeing your mind of the burden for a while, you can come back to the project with clearer eyes, and from a new perspective. You can come back to see that you were actually calling methods on a NULL node which caused you six plus hours of seg faults and headaches (true story).
+When you step back from the project, a funny thing happens. By freeing your mind of burden for a while, you can come back to the project with clearer eyes, and from a new perspective. You can come back to see that you were actually calling methods on a NULL node (instead of the node that points to a NULL node) which caused you six plus hours of seg faults and headaches (true story). Sometimes it doesn't even take that long have a flash of brilliance. I cannot recall how many algorithms I've solved in that strange hinterland between wake and sleep.
 
-Sometimes it doesn't even take that long have a flash of brilliance. I cannot recall how many algorithms I've solved in that strange hinterland between wake and sleep, nor the number of times it has happened staring at the wall of a subway car.
+### 7. Revision Is A Gift From You To Yourself
+##### Michael's Conjecture: Any human at time T is more intelligent than he or she was at time T-n, where n is a length of time greater than zero.
+##### Proof(?): Assume towards contradiction that a human at time T is less intelligent then he or she was at time T-n. Therefore, the human is discarding knowledge, or the mind's intellectual capacity is shrinking, or that there is an upper bound on a person's intelligence. Therefore, one becomes more dim over time. This assumption contradicts the idea that knowledge and experience can be collected over time and thereby cause ones mental capacities to expand by virtue of what has been learned. Because the assumption leads to contradiction, we must conclude that the original proposition is true. QED(?)
+
+In conjunction with number 6, if you allow yourself excess time to ponder your project, then you will have time to revise. By my conjecture, the person who revises your work (i.e. you) will be smarter than the person who wrote it (i.e. you). You will be able to look over your work with keener senses than they were at the time of construction.
 
 
-### 7 through N To be continued...
+### 8 through N To be continued...
