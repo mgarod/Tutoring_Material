@@ -24,7 +24,7 @@ Sometimes, you're going to be the next person that has to look at your code. Do 
 ### 4. Computer Science is Essentially Applied Mathematics
 Strictly speaking you won't use much advanced math when programming, yet having an advanced math background allows you to be a better thinker when you face a problem.
 
-Intricate logic, algorithms, and recursions are at the root of every program which require very abstract thinking. Having a strong foundation in math stretches your mental capacity beyond what you can visualize and keeps you disciplined in your methods. Conceptualizing the ideas of limits, the puzzle solving of integration, and the testing of infinite series all prepared my mind for highly abstract programming.
+Intricate logic, algorithms, and recursions are at the root of every program which require very abstract thinking. Having a strong foundation in math stretches your mental capacity to visualize and keeps you disciplined in your methods. Conceptualizing the ideas of limits, the puzzle solving of integration, and the testing of infinite series all prepared my mind for highly abstract programming.
 
 I would go so far as to say that those that are poor in math are the poorest programmers. If you are self-admittedly poor at math, then you should remedy that or reconsider your path.
 
