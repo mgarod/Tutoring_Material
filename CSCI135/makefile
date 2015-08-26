@@ -2,7 +2,7 @@
 # Author: Michael Garod
 # Date Created: 7/16/15
 #	
-# A makefile is a script that will execute a series of commends
+# A makefile is a script that will execute a series of commands
 #	en lieu of having the human do them on the command line.
 # 
 # This makefile will generate an executable called EXE dependent on OBJS
