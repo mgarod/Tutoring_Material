@@ -10,15 +10,20 @@ using namespace std;
 int main()
 {
 	size_t rows, columns;
+	cout << "Input rows: ";
 	cin >> rows;
+	cout << "/nInput columns: ";
 	cin >> columns;
+	cout << "/n";
 
+	// Initializing the matrix
 	int** two_d_array = new int*[rows];
 	for (int i = 0; i < rows; i++ )
 	{
 		two_d_array[i] = new int[columns];
 	}
 
+	// Filling the matrix
 	for (int i=0; i < rows; i++)
 	{
 		for (int j=0; j<columns; j++)
@@ -27,6 +32,7 @@ int main()
 		}
 	}
 
+	// Printing the matrix
 	for (int i=0; i < rows; i++)
 	{
 		for (int j=0; j<columns; j++)
