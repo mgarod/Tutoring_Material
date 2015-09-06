@@ -48,5 +48,14 @@ When you step back from the project, a funny thing happens. By freeing your mind
 
 In conjunction with number 6, if you allow yourself excess time to ponder your project, then you will have time to revise. By my conjecture, the person who revises your work (i.e. you) will be smarter than the person who wrote it (i.e. you). You will be able to look over your work with keener senses than they were at the time of construction.
 
+### 8. Find Your Zone
+TBD
+### 9. Screen Real Estate
+TBD
+### 10. Use An Intelligent Development Environment
+TBD
+### 11. Abandon The Mouse (as much as possible)
+TBD
 
-### 8 through N To be continued...
+
+### 12 through N To be continued...
