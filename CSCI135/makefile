@@ -26,15 +26,15 @@ EXE = TestSet
 OBJS = TestSet.o
 SOURCE = TestSet.cpp
 CC = g++
-DEBUG = -g -pedantic
-CFLAGS = -Wall -c $(DEBUG)
-LFLAGS = -Wall $(DEBUG)
+DEBUG = -g
+CFLAGS = -std=c++11 -Wall -c $(DEBUG)
+LFLAGS = -std=c++11 -Wall $(DEBUG)
 
 $(EXE): $(OBJS) 
 	$(CC) $(LFLAGS) $(OBJS) -o $(EXE)
 
 $(OBJS):
-	$(CC) -c $(SOURCE)
+	$(CC) $(CFLAGS) $(SOURCE)
 
 # This is an additional instruction that is run by "make clean". The
 #	interpreter will only run the commands under "clean:"
