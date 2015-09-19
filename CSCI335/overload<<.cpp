@@ -2,7 +2,8 @@
 	Title: overload<<.cpp
 	Author: Michael Garod
 	Date Created: 9/2/15
-	Description: A tutorial on how to overload the ostream and ofstream insertion operator (<<) for your class
+	Description: A tutorial on how to overload the ostream and
+		ofstream insertion operator (<<) for your class
 	Credit to: https://msdn.microsoft.com/en-us/library/1z2f6c2k.aspx
 */
 #include <iostream>
