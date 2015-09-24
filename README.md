@@ -43,19 +43,29 @@ The importance of starting early cannot be overstated. On the path to the soluti
 When you step back from the project, a funny thing happens. By freeing your mind of burden for a while, you can come back to the project with clearer eyes, and from a new perspective. You can come back to see that you were actually calling methods on a NULL node (instead of the node that points to a NULL node) which caused you six plus hours of seg faults and headaches (true story). Sometimes it doesn't even take that long have a flash of brilliance. I cannot recall how many algorithms I've solved in that strange hinterland between wake and sleep.
 
 ### 7. Revision Is A Gift From You To Yourself
-##### Michael's Conjecture: Any human at time T is more intelligent than he or she was at time T-n, where n is a length of time greater than zero.
-##### Proof(?): Assume towards contradiction that a human at time T is less intelligent then he or she was at time T-n. Therefore, the human is discarding knowledge, or the mind's intellectual capacity is shrinking, or that there is an upper bound on a person's intelligence. Therefore, one becomes more dim over time. This assumption contradicts the idea that knowledge and experience can be collected over time and thereby cause ones mental capacities to expand by virtue of what has been learned. Because the assumption leads to contradiction, we must conclude that the original proposition is true. QED(?)
+> Michael's Conjecture: Any human at time T is more intelligent than he or she was at time T-n, where n is a length of time greater than zero.
+
+> Proof(?): Assume towards contradiction that a human at time T is less intelligent then he or she was at time T-n. Therefore, the human is discarding knowledge, or the mind's intellectual capacity is shrinking, or that there is an upper bound on a person's intelligence. Therefore, one becomes more dim over time. This assumption contradicts the idea that knowledge and experience can be collected over time and thereby cause ones mental capacities to expand by virtue of what has been learned. Because the assumption leads to contradiction, we must conclude that the original proposition is true. QED(?)
 
 In conjunction with number 6, if you allow yourself excess time to ponder your project, then you will have time to revise. By my conjecture, the person who revises your work (i.e. you) will be smarter than the person who wrote it (i.e. you). You will be able to look over your work with keener senses than they were at the time of construction.
 
-### 8. Find Your Zone
-TBD
-### 9. Screen Real Estate
-TBD
-### 10. Use An Intelligent Development Environment
-TBD
-### 11. Abandon The Mouse (as much as possible)
-TBD
+### 8. Draw a Picture
+> "When you don't understand the problem, draw a picture. If you still don't understand it, draw a bigger picture"
+> Alexey Nikolaev, Adjunct Lecturer at Hunter College
 
+### 9. Screen Real Estate
+When you begin to have 3+ files in a single project, having more monitor space to place your code, input files, output files and other documents helps you visualize all your work. I am fortunate enough to have my desktop connected to 2 monitors, 24" and 20", which allows me to work on multiple windows at once. It is well worth the investment.
+### 10. Use An IDE
+Hardcores will disagree with this one. I started out learning trivial coding on VIM and it was fine. Once I needed to make non-trivial algorithms, I began to use Visual Studio. I found it incredibly helpful for the IDE to sense my errors without having to compile every time, and then take me to the exact line that the error occurs. When I started to have 3+ files in my project, it was helpful that the IDE kept track of my variable and method names across files. Tab auto-completion removes the chances of making typos. I was able to set a guideline at 80 characters which then forces wordwrap.
+
+I know that a lot of these features can be found in most text editors, but the biggest help was to be able to compile, debug and run in the same window with just the touch of a few buttons. This is what sets it apart.
+### 11. Abandon The Mouse (as much as possible)
+This may sound trivial, but the motion to shift your right hand from the home row to the mouse is costing in both time and health. By using the arrow keys, home/end/pgup/pgdn, you are saving time on an action that you will do hundreds of times per hour. I've also found that the most strain on my wrists have come from the mouse, not the keyboard.
+
+To help ease the transition into keyboard-only, go to your keyboard settings, and set your key repeat delay to minimum time, and key repeat frequency to maximum.
+
+While I'm talking about keyboard I'd suggest you invest in an ergonomic style keyboard, and learn how to type as formally as possible (i.e. keeping your fingers on the home row).
+### 12. Draw A Picture
+TBD
 
 ### 12 through N To be continued...
