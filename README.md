@@ -52,6 +52,7 @@ In conjunction with number 6, if you allow yourself excess time to ponder your p
 ### 8. Draw a Picture
 > "When you don't understand the problem, draw a picture. If you still don't understand it, draw a bigger picture"
 > Alexey Nikolaev, Adjunct Lecturer at Hunter College
+
 Early on in coding, looping through arrays is a difficult concept to understand. Anytime I had trouble I would draw what my array should be and I simulated what the computer was doing at any given moment. Look at position zero, do your thing, then increment until the end. I often spoke out my actions aloud in the rubber duck debugging fashion to listen for inconsistencies.
 
 I do this to this day especially when working with trees. They are absolutely not easy to keep track of.
