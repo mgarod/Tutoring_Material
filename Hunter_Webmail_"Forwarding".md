@@ -1,7 +1,8 @@
-Courtesy of Marcin Ziemianowicz, https://github.com/hak8or
+## Courtesy of Marcin Ziemianowicz, https://github.com/hak8or
 
 For all you newcomers who are rightfully frustrated with the hunter web mail blocking forwarding for "security reasons":
 How to forward your emails from myhunter to gmail or whatever and seeing that such a feature was blocked for some ridiculous security reasons, here is how you can get around that.
+
 =========== Copy Pasted from another post of mine ============
 Don't forget you can also "forward" your email from outlook to gmail even though Cuny/Hunter specifically disabled that feature by going using pop3 and all that jazz.
 Go to settings in gmail -> Accounts and Import -> Check mail from other accounts (using POP3):
