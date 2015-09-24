@@ -58,7 +58,9 @@ Early on in coding, looping through arrays is a difficult concept to understand.
 
 I do this to this day especially when working with trees. They are absolutely not easy to keep track of.
 ### 9. Screen Real Estate
-When you begin to have 3+ files in a single project, having more monitor space to place your code, input files, output files and other documents helps you visualize all your work. I am fortunate enough to have my desktop connected to 2 monitors, 24" and 20", which allows me to work on multiple windows at once. It is well worth the investment.
+When you begin to have 3+ files in a single project, having more monitor space to place your code, input files, output files and other documents helps you visualize all your work. I am fortunate enough to have my desktop connected to 2 monitors, 24" and 20", which allows me to work on multiple files at once, as well as keep my textbook open, and a window for browsing stackoverflow and facebook. A second monitor is well worth the investment.
+
+On the opposite end, this is why I don't enjoy programming on my laptop. Thirteen inches of screen space is horribly limiting, even if it is retina display.
 ### 10. Use An IDE
 Hardcores will disagree with this one. I started out learning trivial coding on VIM and it was fine. Once I needed to make non-trivial algorithms, I began to use Visual Studio. I found it incredibly helpful for the IDE to sense my errors without having to compile every time, and then take me to the exact line that the error occurs. When I started to have 3+ files in my project, it was helpful that the IDE kept track of my variable and method names across files. Tab auto-completion removes the chances of making typos. I was able to set a guideline at 80 characters which then forces wordwrap.
 
