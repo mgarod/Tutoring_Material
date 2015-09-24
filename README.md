@@ -29,7 +29,8 @@ Intricate logic, algorithms, and recursions are at the root of every program whi
 I would go so far as to say that those that are poor in math are the poorest programmers. If you are self-admittedly poor at math, then you should remedy that or reconsider your path.
 
 ### 5. Work Top-Down (Think First, Code Later)
-"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." -Linus Torvalds
+> Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> Linus Torvalds, developer of the Linux kernel
 
 Design your algorithms first at the highest level, i.e. explain in English each step on your path to the answer. Then, translate your English into more mathematical, logical operations via flow charts. Then finally, you can translate your logic into code.
 
