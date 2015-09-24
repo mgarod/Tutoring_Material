@@ -52,7 +52,9 @@ In conjunction with number 6, if you allow yourself excess time to ponder your p
 ### 8. Draw a Picture
 > "When you don't understand the problem, draw a picture. If you still don't understand it, draw a bigger picture"
 > Alexey Nikolaev, Adjunct Lecturer at Hunter College
+Early on in coding, looping through arrays is a difficult concept to understand. Anytime I had trouble I would draw what my array should be and I simulated what the computer was doing at any given moment. Look at position zero, do your thing, then increment until the end. I often spoke out my actions aloud in the rubber duck debugging fashion to listen for inconsistencies.
 
+I do this to this day especially when working with trees. They are absolutely not easy to keep track of.
 ### 9. Screen Real Estate
 When you begin to have 3+ files in a single project, having more monitor space to place your code, input files, output files and other documents helps you visualize all your work. I am fortunate enough to have my desktop connected to 2 monitors, 24" and 20", which allows me to work on multiple windows at once. It is well worth the investment.
 ### 10. Use An IDE
@@ -65,7 +67,5 @@ This may sound trivial, but the motion to shift your right hand from the home ro
 To help ease the transition into keyboard-only, go to your keyboard settings, and set your key repeat delay to minimum time, and key repeat frequency to maximum.
 
 While I'm talking about keyboard I'd suggest you invest in an ergonomic style keyboard, and learn how to type as formally as possible (i.e. keeping your fingers on the home row).
-### 12. Draw A Picture
-TBD
 
 ### 12 through N To be continued...
