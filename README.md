@@ -68,8 +68,13 @@ I know that a lot of these features can be found in most text editors, but the b
 ### 11. Abandon The Mouse (as much as possible)
 This may sound trivial, but the motion to shift your right hand from the home row to the mouse is costing in both time and health. By using the arrow keys, home/end/pgup/pgdn, you are saving time on an action that you will do hundreds of times per hour. I've also found that the most strain on my wrists have come from the mouse, not the keyboard.
 
-To help ease the transition into keyboard-only, go to your keyboard settings, and set your key repeat delay to minimum time, and key repeat frequency to maximum.
+To help ease the transition into keyboard-only, go to your keyboard settings, and set your key repeat delay to minimum time, and key repeat frequency to maximum. This makes navigating a text file with the arrow keys much more bearable, and just as precise as the mouse, if not more so.
 
-While I'm talking about keyboard I'd suggest you invest in an ergonomic style keyboard, and learn how to type as formally as possible (i.e. keeping your fingers on the home row).
+### 12. Keyboards and Typing
+While I'm talking about keyboards, I highly suggest you invest in an ergonomic style keyboard since you'll be using it at least 8 hours a day.
+
+Learn how to type as formally as possible (i.e. keeping your fingers on the home row). Learning how to type will alleviate pain in your neck because you'll never need to look down at your keyboard, then back up to your monitor, as well as pain in your wrists because you'll be moving less.
+
+Moving parts have more wear and tear than those that are static. You'll be sitting down for hours on end now that you're going down this path, take care of yourself. Spend a little extra money to make your life easier.
 
 ### 12 through N To be continued...
