@@ -57,24 +57,33 @@ In conjunction with number 6, if you allow yourself excess time to ponder your p
 Early on in coding, looping through arrays is a difficult concept to understand. Anytime I had trouble I would draw what my array should be and I simulated what the computer was doing at any given moment. Look at position zero, do your thing, then increment until the end. I often spoke out my actions aloud in the rubber duck debugging fashion to listen for inconsistencies.
 
 I do this to this day especially when working with trees. They are absolutely not easy to keep track of.
+
 ### 9. Screen Real Estate
 When you begin to have 3+ files in a single project, having more monitor space to place your code, input files, output files and other documents helps you visualize all your work. I am fortunate enough to have my desktop connected to 2 monitors, 24" and 20", which allows me to work on multiple files at once, as well as keep my textbook open, and a window for browsing stackoverflow and facebook. A second monitor is well worth the investment.
 
 On the opposite end, this is why I don't enjoy programming on my laptop. Thirteen inches of screen space is horribly limiting, even if it is retina display.
+
+If you are unable to obtain a second monitor, see if your operating system is capable of "workspaces". These are essentially virtual multiple monitors. The only issue here is that you can only view one virtual "workspace" at a time. MAC OSX and Linux operating systems are capable of this feature. Microsoft recently enabled this feature (finally) for their latest Windows OS release, Windows 10.
+
 ### 10. Use An IDE
 Hardcores will disagree with this one. I started out learning trivial coding on VIM and it was fine. Once I needed to make non-trivial algorithms, I began to use Visual Studio. I found it incredibly helpful for the IDE to sense my errors without having to compile every time, and then take me to the exact line that the error occurs. When I started to have 3+ files in my project, it was helpful that the IDE kept track of my variable and method names across files. Tab auto-completion removes the chances of making typos. I was able to set a guideline at 80 characters which then forces wordwrap.
 
 I know that a lot of these features can be found in most text editors, but the biggest help was to be able to compile, debug and run in the same window with just the touch of a few buttons. This is what sets it apart.
+
 ### 11. Abandon The Mouse (as much as possible)
 This may sound trivial, but the motion to shift your right hand from the home row to the mouse is costing in both time and health. By using the arrow keys, home/end/pgup/pgdn, you are saving time on an action that you will do hundreds of times per hour. I've also found that the most strain on my wrists have come from the mouse, not the keyboard.
 
 To help ease the transition into keyboard-only, go to your keyboard settings, and set your key repeat delay to minimum time, and key repeat frequency to maximum. This makes navigating a text file with the arrow keys much more bearable, and just as precise as the mouse, if not more so.
 
+Study the shortcuts of your IDE or text editor. While it may seem like you are wasting time looking up shortcuts, those seconds that you save quickly add up, and it definitely becomes worth it in the long run.
+
 ### 12. Keyboards and Typing
 While I'm talking about keyboards, I highly suggest you invest in an ergonomic style keyboard since you'll be using it at least 8 hours a day. It is much more comfortable to have your wrists angled. I've been using them for about 10 years now and will never buy a straight keyboard again.
 
-Learn how to type as formally as possible (i.e. keeping your fingers on the home row). Learning how to type will alleviate pain in your neck because you'll never need to look down at your keyboard, then back up to your monitor, as well as pain in your wrists because you'll be moving less. Moving parts have more wear and tear than those that are static.
+Learn [Touch Typing](https://www.wikiwand.com/en/Touch_typing#/Advantages). Learning how to type will alleviate pain in your neck because you'll never need to look down at your keyboard, then back up to your monitor, as well as pain in your wrists because you'll be moving less. Moving parts have more wear and tear than those that are static.
 
 You'll be sitting down for hours on end now that you're going down this path, take care of yourself. Spend a little extra money to make your life easier.
 
-### 12 through N To be continued...
+Many programmers swear by the use of mechanical keyboards, as oppossed to the rubber dome model keyboards. This is obviously personal preference, but you should at least take them into consideration.
+
+### 13 through N To be continued...
