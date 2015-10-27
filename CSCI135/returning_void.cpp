@@ -14,10 +14,10 @@ int main(){
 
 // Can you spot the error?
 
-cout << "Before food()\n" << foo() << " After foo()\n";
+cout << "Before foo()\n" << foo() << " After foo()\n";
 
 /*
-  When this is run you will get pages on pages of error messages.
+  When this is run you will get many pages of error messages.
   You probably won't be able to decipher the error messages, but
   you should be able to pick out the line of the error (at the very
   start of the error message) and that the error derives from 
