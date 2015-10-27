@@ -1,7 +1,7 @@
 /*
 	Title: n-squared_sorting_algorithms.cpp
 	Author: Michael Garod
-	Date Created: 8/11/15
+	Date Created: 10/27/15
 	Description: A file containing 3 implementations of O(n-squared) sorting
 		algorithms.
 	Note: I used std::swap(x, y) en lieu of using a third variable.
