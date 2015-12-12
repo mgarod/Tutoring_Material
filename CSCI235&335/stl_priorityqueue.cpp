@@ -3,7 +3,8 @@
 	Author: Michael Garod
 	Date Created: 12/12/15
 	Description: A tutorial on how to use std::priority_queue with user defined
-		class. Queueing a struct instead of a class would be easier. There would be no need for getters and setters (see line 33 and 41 to see
+		class. Queueing a struct instead of a class would be easier. There
+		would be no need for getters and setters (see line 33 and 41 to see
 		the difference).
 */
 #include <iostream>
