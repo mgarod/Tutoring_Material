@@ -64,7 +64,7 @@ int main(int argc, char** argv){
 	apq.push(y);
 	cout << "Push: " << y.GetValue() << " Top: " << apq.top() << endl; // 1 on still top
 
-
+	// Note that by default, a priority_queue on any standard data type is a max heap
 	priority_queue<Vertex, vector<Vertex>, VertexMaxHeap> bpq;
 
 	cout << "The following 3 lines are the top of the MAX heap:\n";
