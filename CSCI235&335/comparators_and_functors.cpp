@@ -56,7 +56,7 @@ class LessCmpCT { // Less than operator to compare ConnectionTuple
 };
 
 /*
-	For unordered STL containers like std::unordered_set and std::unordered_map, we will define a comparator which can simply determine uniqueness. Two connections are unique if and only if each of the 4 numbers in the 4-tuple are equal.
+	For unordered STL containers like std::unordered_set and std::unordered_map, we will define a comparator which can simply determine uniqueness. Two connections are equal if and only if each of the 4 numbers in the 4-tuple are equal.
 */
 class EqCmpCT {
  public:
