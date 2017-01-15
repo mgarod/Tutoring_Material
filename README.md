@@ -65,10 +65,16 @@ On the opposite end, this is why I don't enjoy programming on my laptop. Thirtee
 
 If you are unable to obtain a second monitor, see if your operating system is capable of "workspaces". These are essentially virtual multiple monitors. The only issue here is that you can only view one virtual "workspace" at a time. MAC OSX and Linux operating systems are capable of this feature. Microsoft recently enabled this feature (finally) for their latest Windows OS release, Windows 10.
 
+**Update 12/19/2016:** *I bought a MacBook Pro 13" and got [window organizing software](https://github.com/fikovnik/ShiftIt) which allowed me to maximize screen real estate within 13" and using the aforementioned virtual workspaces. It's still nicer to work with several large monitors, but programming on a laptop isn't as painful as it was on my Windows 8 laptop.*
+
 ### 10. Use An IDE
 Hardcores will disagree with this one. I started out learning trivial coding on VIM and it was fine. Once I needed to make non-trivial algorithms, I began to use Visual Studio. I found it incredibly helpful for the IDE to sense my errors without having to compile every time, and then take me to the exact line that the error occurs. When I started to have 3+ files in my project, it was helpful that the IDE kept track of my variable and method names across files. Tab auto-completion removes the chances of making typos. I was able to set a guideline at 80 characters which then forces wordwrap.
 
 I know that a lot of these features can be found in most text editors, but the biggest help was to be able to compile, debug and run in the same window with just the touch of a few buttons. This is what sets it apart.
+
+**Update 12/19/2016:** *I personally stopped using IDEs midway through CSCI 335 because I bought a MacBook Pro and found that I can be much faster by simply using text editors and the terminal. However, that speedup is only a convenience with a higher degree of skill and experience with the command line and programming in general. I no longer needed to features of the IDE as a safety net.*
+
+*Certainly there are benefits to the IDE for beginners, but it becomes cumbersome when the build process becomes more complex, such as with templating (you must not build the object files since they are already included in the headers), or creating alternate main functions for testing. I'll only use an IDE for truly large projects that need tools to aid with organization or collaboration, like when I did my CSCI 340 project in Python, I used PyCharm.*
 
 ### 11. Abandon The Mouse (as much as possible)
 This may sound trivial, but the motion to shift your right hand from the home row to the mouse is costing in both time and health. By using the arrow keys, home/end/pgup/pgdn, you are saving time on an action that you will do hundreds of times per hour. I've also found that the most strain on my wrists have come from the mouse, not the keyboard.
