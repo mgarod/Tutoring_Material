@@ -16,16 +16,16 @@ class Dog : public Animal {
  public:
 	Dog(string s) : Animal(s) { };
 	void speak() { cout << "woof!" << endl; };
-	void walk() {	cout << "dogwalk" << endl; };
-	void rollover() {	cout << "dogrollover" << endl; };
+	void walk() { cout << "dogwalk" << endl; };
+	void rollover() { cout << "dogrollover" << endl; };
 };
 
 class Cat : public Animal {
  public:
 	Cat(string s) : Animal(s) { };
 	void speak() { cout << "meow!" << endl; };
-	void walk() {	cout << "catwalk" << endl; };
-	void rollover() {	cout << "cats dont roll over" << endl; };
+	void walk() { cout << "catwalk" << endl; };
+	void rollover() { cout << "cats dont roll over" << endl; };
 };
 
 int main() {
